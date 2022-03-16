@@ -1,2 +1,2 @@
 # Calculadora
-Calculadora / HTML CSS grid
+Calculadora / HTML CSS JavScript
