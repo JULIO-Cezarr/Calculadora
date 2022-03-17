@@ -18,7 +18,13 @@ body {
     grid-template-columns: repeat(4, 90px);
     grid-template-rows: minmax(120px, auto) repeat(5, 90px);
 }
-.grid-container > button {
+
+.grid-container > button:hover{
+    background-color: white;
+    cursor: pointer;
+    color: black;
+}.grid-container > button 
+
     cursor: pointer;
     font-size: 2rem;
     border: none;
